@@ -20,7 +20,7 @@ int main(void) {
 
         Lcd_init();
         Lcd_Goto(1,1);
-        Lcd_Puts("HUMEYRA ");
+        Lcd_Puts("ILAYDA");
         Lcd_Goto(2,4);
         Lcd_Puts("SAU");
 
@@ -28,4 +28,5 @@ int main(void) {
 
         }
 }
+
 
